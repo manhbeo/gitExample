@@ -1,2 +1,3 @@
-boss,9084450429,Nguyen,Manh
+role,NetID,LastName,FirstName
+boss,mdnguyen4,Nguyen,Manh
 employee,jdhopwood,hopwood,josh
